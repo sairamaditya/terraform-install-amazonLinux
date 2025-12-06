@@ -1,2 +1,2 @@
-# terraform-install-amazonLinux
-Project to register things done to install terraform on AmazonLinux ec2 machine
+# Register steps that were used to install terraform on on amazon linux ec2 instance.
+
