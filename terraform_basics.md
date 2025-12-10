@@ -4,3 +4,4 @@ what is block parameter and key valu pairs inside parameter
 
 init plan apply show
 
+terraform has pretty good documentation on how to use resources
